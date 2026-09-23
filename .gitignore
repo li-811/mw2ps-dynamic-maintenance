@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+large_scale_data/
+exact_calibration_output/
+safe_refresh_output/
+large_scale_output/
+red2pack_pilot_output/
+red2pack_benchmark_output/
+same_environment_timing_output/

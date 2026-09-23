@@ -1,0 +1,4 @@
+chszlablib==0.5.27
+numpy
+pandas
+networkx
